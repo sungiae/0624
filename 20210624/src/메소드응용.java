@@ -12,7 +12,6 @@ public class 메소드응용 {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		input("년");
-		input("월");
 	}
 
 }
